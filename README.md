@@ -13,7 +13,7 @@ I'm always learning, building, and experimenting — and I’m currently levelin
 - 🔹 App encryption & security
 - 🔹 Firebase integrations
 
-📬 Reach me at: [zarawarqaimkhani@yourdomain.com](mailto:zarawarqaimkhani@yourdomain.com)
+📬 Reach me at: [zarawarqaimkhani@gmail.com](mailto:zarawarqaimkhani@gmail.com)
 
 ---
 
