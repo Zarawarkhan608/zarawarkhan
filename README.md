@@ -1,78 +1,50 @@
-# zarawar Khan
+# 👋 Hello, I'm Zarawar Khan
 
-A brief description of your project goes here.
+🎯 Passionate Flutter Developer | 💻 App Enthusiast | 📱 Mobile UI/UX Explorer
 
-## Table of Contents
+---
 
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 🧠 About Me
 
-## About the Project
+Hi! I'm **Zarawar Khan**, a dedicated and creative mobile app developer specializing in **Flutter**. I love turning ideas into fast, secure, and user-friendly mobile applications.
 
-Provide an overview of what your project does, why it exists, and any other context necessary to understand it.
+I'm always learning, building, and experimenting — and I’m currently leveling up my skills in:
+- 🔹 Backend development
+- 🔹 App encryption & security
+- 🔹 Firebase integrations
 
-### Features
-- Feature 1: Describe feature 1
-- Feature 2: Describe feature 2
-- Feature 3: Describe feature 3
+📬 Reach me at: [zarawarqaimkhani@yourdomain.com](mailto:zarawarqaimkhani@yourdomain.com)
 
-## Getting Started
+---
 
-### Prerequisites
+## 🔧 Tech Stack
 
-List any software, libraries, or tools required to run the project.
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-```bash
-# Example
-npm install -g some-tool
-```
+---
 
-### Installation
+## 📈 GitHub Stats
 
-Step-by-step instructions for setting up the project locally.
+![Zarawar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarawarkhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarawarkhan&layout=compact&theme=tokyonight)
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
+---
 
-# Navigate to the project directory
-cd your-repo
+## 🚀 Projects I'm Proud Of
 
-# Install dependencies
-npm install
-```
+| Project | Description |
+|--------|-------------|
+| 🔒 **Secure Chat App** | Encrypted group messaging with message expiry & 5 encryption methods |
+| 🎨 **UI Experiments** | Flutter UIs based on Figma and Photoshop designs |
+| 📚 **Learning Hub** | Ongoing experiments with GetX, Firebase, and secure auth flows |
 
-## Usage
+---
 
-Provide an example of how to use the project.
+## 💡 Fun Fact
 
-```bash
-# Example command to run the project
-npm start
-```
+> I love building apps with invisible features — like **end**
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - your.email@example.com
-
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
