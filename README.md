@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Zarawar Khan
 
-🎯 Passionate Flutter Developer | 💻 App Enthusiast | 📱 Mobile UI/UX Explorer
+🎯 Passionate Flutter Developer | 💻 App Enthusiast | 📱 Mobile UI/UX 
 
 ---
 
